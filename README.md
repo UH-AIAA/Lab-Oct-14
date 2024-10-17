@@ -15,5 +15,5 @@ This lab should be awesome -- today is the first day we're going get work done o
 - error philosophy!! (this is cool i swear)
 - choose an error handling model based off of previous discussion
 - start with the queue error
-- test flight [BFC](https://github.com/UH-AIAA/backup-flight-code), if we find any runtime errors, handle them now
-- 
+- test the [BFC](https://github.com/UH-AIAA/backup-flight-code), if we find any runtime errors in our app
+- write tests maybe? go over tests? who knows if we'll have time
